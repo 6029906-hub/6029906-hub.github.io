@@ -9,6 +9,8 @@ body {
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
+
+
 #all-contents {
   max-width: 1500px;
   min-height: 100vh;
@@ -166,4 +168,5 @@ nav h1 {
   background: #000;
   color: #fff;
 }
+
 
