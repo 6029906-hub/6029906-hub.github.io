@@ -52,11 +52,12 @@ createPlatform(1200, 120, 200, 20, "hotpink");
    createCollectable("steve", 200, 170, 0.6, 0.7);
 createCollectable("diamond", 1130, 570, 0.5, 0.7);
 createCollectable("diamond", 950, 330, 0.4, 0.7);
+ createCollectable("steve", 1300, 170, 0.8, 0.7);
 
 
     // TODO 4 - Create Cannons
-    createCannon("top", 700, 2010);
-createCannon("right", 500, 2000);
+    createCannon("top", 700, 2000);
+createCannon("right", 250, 2000);
 createCannon("left", 200, 2000);
 
 
